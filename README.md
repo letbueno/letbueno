@@ -4,10 +4,10 @@
  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/letbuenom)](https://twitter.com/letbuenom)
  [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/letbueno)](https://github.com/letbueno)
 
-Olá! Meu nome é Leticia Bueno Martins e aqui está um pouco sobre mim:
+Hi, There! My name is Leticia Bueno and these are some things about me.
 
-- :cityscape: Eu sou de Palmas - Tocantins, Brasil.
-- :desktop_computer: Estagiária de TI em suporte em busca da primeira oportunidade como DEV.
+- :cityscape: I'm from Palmas - Tocantins, Brazil.
+- :desktop_computer: IT Intern, Looking for the first opportunity as a developer.
 - :books: HTML, CSS, Javascript, Typescript, React, React Native.
-- :mortar_board: Sou Técnica em Informática para Internet e Graduanda em Engenharia de Software.
-- :video_game: Gosto de jogar no meu tempo livre.
+- :mortar_board: Informatics Technician and Graduating in Software Engineering
+- :video_game: I like to play video games.
