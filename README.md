@@ -1,13 +1,14 @@
-## Leticia Bueno :curly_haired_woman::desktop_computer:
+## Leticia Bueno
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiabuenom)](https://www.linkedin.com/in/leticiabuenom)
- [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/letbuenom)](https://twitter.com/letbuenom)
- [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/letbueno)](https://github.com/letbueno)
+[![Linkedin Badge](https://img.shields.io/badge/-leticiabuenom-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/leticiabuenom)](https://www.linkedin.com/in/leticiabuenom)
+ [![Twitter Badge](https://img.shields.io/badge/-@letbuenom-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/letbuenom)](https://twitter.com/letbuenom)
+ [![Instagram Badge](https://img.shields.io/badge/-@letbue.no-e4405f?style=flat-square&labelColor=f94877&logo=instagram&logoColor=white&link=https://www.instagram.com/letbue.no/)](https://www.instagram.com/letbue.no/)
 
-Hi, There! My name is Leticia Bueno and these are some things about me.
+Hi, There! My name is Leticia Bueno Martins and these are some things about me.
 
-- :cityscape: I'm from Palmas - Tocantins, Brazil.
+- :woman: 20 years.
+- :cityscape: Palmas - Tocantins, Brazil.
 - :desktop_computer: IT Intern, Looking for the first opportunity as a developer.
 - :books: HTML, CSS, Javascript, Typescript, React, React Native.
-- :mortar_board: Informatics Technician and Graduating in Software Engineering.
+- :mortar_board: Informatics Technician and Graduating in Software Engineering, 6th Period.
 - :video_game: I like to play video games.
