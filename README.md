@@ -6,9 +6,9 @@
 
 Hi, There! My name is Leticia Bueno Martins and these are some things about me.
 
-- :woman: 21 years.
+- :woman: 22 years.
 - :cityscape: Palmas - Tocantins, Brazil.
 - :desktop_computer: Front-End Developer at aftersale
-- :books: HTML, CSS, Javascript, Typescript, React, React Native.
-- :mortar_board: Informatics Technician and Graduating in Software Engineering, 7th Period.
+- :books: React, Next.js, Node, Rails.
+- :mortar_board: Informatics Technician and Graduating in Software Engineering, 8th Period.
 - :video_game: I like to play video games.
