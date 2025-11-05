@@ -8,7 +8,7 @@ Hi, There! My name is Leticia Bueno Martins and these are some things about me.
 
 - :woman: 25 years.
 - :cityscape: Palmas - Tocantins, Brazil.
-- :desktop_computer: Full Stack Developer at [Designli](https://designli.co).
+- :desktop_computer: Software Engineer at [Superfiliate](https://www.superfiliate.com/).
 - :books: React, React Native, Next.js, Node.js, Ruby on Rails.
 - :mortar_board: Software Engineering.
 - :video_game: I like to play video games.
